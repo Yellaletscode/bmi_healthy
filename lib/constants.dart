@@ -30,5 +30,5 @@ const kBMITextStyle = TextStyle(
   fontWeight: FontWeight.bold,
 );
 const kResultDescriptionTextStyle = TextStyle(
-  fontSize: 22.0,
+  fontSize: 22,
 );
